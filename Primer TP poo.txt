@@ -1,0 +1,6 @@
+ git config --global user.name "MauPoo10"
+ git config --global user.email "ironhladij@hotmail.com"
+ git init
+ git status
+ git add .
+ git commit -m
